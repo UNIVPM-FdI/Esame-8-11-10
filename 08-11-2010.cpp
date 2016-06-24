@@ -1,11 +1,11 @@
 /*
-CiÚ premesso, si lavori al seguente progetto:
+Ci√≤ premesso, si lavori al seguente progetto:
 a) Caricare da file di testo l'immagine su cui lavorare (il nome del file va fornito da tastiera);
-b) Specchiare la met‡ sinistra sulla met‡ destra e stampare a video l'immagine modificata;
+b) Specchiare la met√† sinistra sulla met√† destra e stampare a video l'immagine modificata;
 c) Ruotare l'immagine di 180 gradi in senso antiorario e stampare a video l'immagine ruotata;
 d) Stampare a video l'immagine;
 e) Salvare su file di testo l'ultima versione dell'immagine (il nome del file va fornito da tastiera);
-f) Uscire dal men˘.
+f) Uscire dal men√π.
 */
 #include <iostream>
 #include <fstream>
@@ -141,3 +141,5 @@ for(int i=0;i<10;i++){
     cout<<endl;
 }
 }
+
+//Coded by DarkCerfa
